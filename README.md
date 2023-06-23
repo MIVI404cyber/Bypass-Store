@@ -1,6 +1,6 @@
 # Kidz-Bypass-Store
 
-- rm -rf Tutul-Bypass
+- rm -rf Kidz-Bypass-Store
 - git clone https://github.com/MIVI404cyber/Kidz-Bypass-Store
 - cd Kidz-Bypass-Store
 - python Fuck.py
