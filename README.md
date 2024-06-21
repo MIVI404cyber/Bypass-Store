@@ -1,6 +1,7 @@
 # Bypass-Store
-
-- rm -rf Bypass-Store
-- git clone --depth=1 https://github.com/MIVI404cyber/Bypass-Store
-- cd Bypass-Store
-- ls
+###### FB-KING-BYPASS-COMMAND 
+```
+apt install wget
+wget
+```
+# Thanks For Use My Tool
